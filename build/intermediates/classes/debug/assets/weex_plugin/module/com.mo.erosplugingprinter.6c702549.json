@@ -1,0 +1,1 @@
+[{"canOverrideExisting":true,"globalRegistration":false,"functions":["bondDevice","stopSearchDevices","disconnectPrinter","searchDevices","printLabel","isSupport","isEnabled","queryTsc","enableBluetooth","getBondedDevices"],"name":"BluetoothModule","class":"com.mo.erosplugingprinter.BluetoothModule","lazyLoad":true}]
